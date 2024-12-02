@@ -27,10 +27,10 @@ I’m passionate about leveraging my technical expertise to create innovative, e
 ---
 
 ## 💡 Notable Projects
-### [Rosy Economix](https://www.jessecharbneau.com/rosy-economix)  
+### [Rosy Economix](https://capstone-demo.rosyeconomix.com)  
 A full-stack economic data analysis tool using React, FastAPI, and PostgreSQL. Features include interactive visualizations and advanced data lineage mapping.  
 
-### [Global Matrix Tooling](https://www.jessecharbneau.com/projects/global-matrix-tooling)  
+### Global Matrix Tooling - Standardized Marketing Campaigns
 A comprehensive campaign tracking system for Ubisoft, saving **$1M annually** through improved analytics and streamlined global strategies.  
 
 ### Eventbus - High-Volume Ingestion Platform  
