@@ -17,12 +17,12 @@ I’m passionate about leveraging my technical expertise to create innovative, e
 ---
 
 ## 🛠️ Areas of Expertise
-- **Data Engineering & Architecture**: Snowflake, EMR, Hive, Presto, Airflow  
-- **Cloud Infrastructure**: AWS (Lambda, EC2, S3, EKS), Terraform  
-- **Big Data Technologies**: Spark, Hadoop, Kinesis  
+- **Leadership**: Strategic Planning, Team Growth, Cross-Functional Collaboration  
+- **Data Engineering & Architecture**: EMR, Hive, Presto, Airflow, Snowflake
+- **Cloud Infrastructure**: AWS (Lambda, EC2, S3, EKS), Cloudformation, Terraform  
+- **Big Data Technologies**: Spark, Hadoop, Kinesis, Kafka, Flink  
 - **Web Development**: ReactJS, AngularJS, Three.js  
 - **Languages**: Python, Java, SQL  
-- **Leadership**: Strategic Planning, Team Growth, Cross-Functional Collaboration  
 
 ---
 ## 💡 Notable Projects
@@ -41,9 +41,10 @@ Developed a system at Glassdoor capable of handling **300B+ events annually**, e
 ---
 
 ## 📈 Current Focus
-- Optimizing developer workflows with **Coder** and **Kubernetes**.
-- Enhancing platform performance at **Rigetti Computing**.
-- Exploring cutting-edge tools like **OpenAI APIs**, **Snowflake**, and **Airflow**.
+- Preparing to lead cutting-edge AI engineering initiatives to drive innovation and enhance platform capabilities.
+- Exploring scalable AI-driven solutions to solve complex challenges and improve user experiences.
+- Collaborating across teams to integrate advanced machine learning models and optimize engineering workflows.
+- Continuing to leverage and expand expertise in **AI technologies**, **Kubernetes**, and **data-driven platforms** to build impactful, scalable solutions.
 
 ---
 
